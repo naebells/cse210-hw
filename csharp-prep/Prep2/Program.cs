@@ -42,7 +42,7 @@ class Program
         }
         else if (grade >= 0 && grade <= 70)
         {
-            Console.Write("Unfortunately, you've failed this class with this grade.");
+            Console.Write("Unfortunately, you've failed the class with this grade.");
         }
     }
 }
